@@ -2,6 +2,7 @@
 command line interface for (dbbcat)[dbbact.org] - the bacterial knowledge database
 
 commands are:
+
 ```enrichment.py``` : test enrichment of dbbact terms between 2 fasta files
 
 usage:
